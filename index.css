@@ -16,6 +16,7 @@ body {
     background-color: #6c757d;
     color: #fff;
     cursor: pointer;
+    outline: none;
 }
 
 .action button.cur {
